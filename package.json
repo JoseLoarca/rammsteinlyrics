@@ -1,0 +1,25 @@
+{
+  "name": "ratchet-app",
+  "version": "1.0.0",
+  "description": ":sunglasses: Aplicación personal hecha con Ratchet. :see_no_evil:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLoarca/ratchet-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseLoarca/ratchet-app/issues"
+  },
+  "homepage": "https://github.com/JoseLoarca/ratchet-app#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2",
+    "path": "^0.12.7"
+  }
+}
