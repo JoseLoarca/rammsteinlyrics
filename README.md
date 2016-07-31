@@ -1,2 +1,4 @@
-# ratchet-app
-:sunglasses: Aplicación personal hecha con Ratchet. :see_no_evil:
+# Rammstein Lyrics :musical_note:
+Basic webapp made using <strong>Ratchet</strong> framework.
+
+<i>JC</i>
